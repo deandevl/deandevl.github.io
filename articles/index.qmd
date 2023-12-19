@@ -1,0 +1,17 @@
+---
+title: Articles
+---
+
+## Census Bureau
+
+
+## Spatial Mapping
+
+
+
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://github.com/deandevl/deandevl.github.io" role="button" target="_blank" style="padding: 15px 30px;">deandevl programming</a>
+</div>
+```

@@ -1,0 +1,32 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/RickColor.jpg"
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/deandevl
+    - icon: bucket
+      text: farm
+      href: https://fairfieldfruits.com/
+    - icon: envelope
+      text: Email
+      href: "mailto:deanr3@bardstown.com"  
+---
+
+::: {#about-block}
+:::
+
+## Welcome
+
+From the great state of Kentucky, welcome and thank you for stopping by. I'm Rick Dean with a lot of interest in computer programming on one side of my brain and the challenge of small fruit farming on the other side.  The R-language is of particular interest and has inspired me to develop several R packages in data wrangling, display, and access.  Presented here are brief descriptions and demos of some of these packages which hopefully you may find useful.  Easier access to US Census Bureau data; using ggplot2 in a functional, less code-tree like manner; assisting in the joining of data with geo-mapping; and promoting the powerful [data.table](https://rdatatable.gitlab.io/data.table/) package for data wrangling are some of the ideas and code included here.
+
+The small fruit farming occupies much of my time -- for over 30 years across the states of Alabama and Kentucky.  From strawberries, blueberries, blackberries to asparagus/rhubarb and now flowers, I love to grow things and see people enjoy picking them.  It keeps my body moving and provides a place to make a memory and encourages good healthy organic food for both kids/adults. The farm [Fairfield Fruits](https://fairfieldfruits.com/) is located in northern Kentucky and starts the season with pick-your-own strawberries in late May.
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://github.com/deandevl/deandevl.github.io" role="button" target="_blank" style="padding: 15px 30px;">deandevl programming</a>
+</div>
+```
+

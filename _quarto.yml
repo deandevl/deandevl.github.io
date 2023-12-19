@@ -1,0 +1,62 @@
+# website settings
+website:
+  title: "Rick Dean"
+  description: "Computer programmer in multiple languages along with small fruit farming"
+  image: img/RickColor.jpg
+
+  favicon: img/favicon.ico
+
+  navbar:
+    pinned: true
+    logo: /img/strawberrybasket.jpg
+
+    # your sub-pages
+    left:
+      - text: "R-Packages"
+        href: r_packages/index.qmd
+      - text: "Articles"
+        href: articles/index.qmd
+
+    right:
+      - icon: github
+        href: https://github.com/deandevl
+      - icon: envelope
+        aria-label: email
+        href: "mailto:deanr3@bardstown.com"
+
+  search:
+    location: navbar
+    type: textbox
+  page-footer:
+    left: |
+      <span class="faux-block">2023 Rick Dean</span>
+    center: |
+      <span class="faux-block"><a href="https://github.com/deandevl">View the deandevl repositories</a></span>
+    right: |
+      <span class="faux-block"><a href="https://github.com/deandevl/deandevl.github.io">View source on GitHub</a></span>
+
+project:
+  type: website
+  output-dir: docs
+
+  preview:
+    port: 22222
+    browser: true
+    watch-inputs: true
+    navigate: true
+
+execute:
+  freeze: true
+
+format:
+  html:
+    fontsize: 1.1em
+    theme:
+      - pulse
+      - html/styles.scss
+    toc: false
+    code-link: true
+    anchor-sections: true
+    fig-cap-location: margin
+    reference-location: margin
+    footnotes-hover: true

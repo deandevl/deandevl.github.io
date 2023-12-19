@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "r_packages/index.html#rcensuspkg",
+    "href": "r_packages/index.html#rcensuspkg",
+    "title": "R packages",
+    "section": "RcensusPkg",
+    "text": "RcensusPkg\n\ndeandevl programming"
+  },
+  {
+    "objectID": "articles/index.html#spatial-mapping",
+    "href": "articles/index.html#spatial-mapping",
+    "title": "Articles",
+    "section": "Spatial Mapping",
+    "text": "Spatial Mapping\n\ndeandevl programming"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Rick Dean",
+    "section": "",
+    "text": "Github\n  \n  \n    \n     farm\n  \n  \n    \n     Email"
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Rick Dean",
+    "section": "Welcome",
+    "text": "Welcome\nFrom the great state of Kentucky, welcome and thank you for stopping by. I’m Rick Dean with a lot of interest in computer programming on one side of my brain and the challenge of small fruit farming on the other side. The R-language is of particular interest and has inspired me to develop several R packages in data wrangling, display, and access. Presented here are brief descriptions and demos of some of these packages which hopefully you may find useful. Easier access to US Census Bureau data; using ggplot2 in a functional, less code-tree like manner; assisting in the joining of data with geo-mapping; and promoting the powerful data.table package for data wrangling are some of the ideas and code included here.\nThe small fruit farming occupies much of my time – for over 30 years across the states of Alabama and Kentucky. From strawberries, blueberries, blackberries to asparagus/rhubarb and now flowers, I love to grow things and see people enjoy picking them. It keeps my body moving and provides a place to make a memory and encourages good healthy organic food for both kids/adults. The farm Fairfield Fruits is located in northern Kentucky and starts the season with pick-your-own strawberries in late May.\n\ndeandevl programming"
+  }
+]
